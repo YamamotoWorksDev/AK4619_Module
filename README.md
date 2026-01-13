@@ -6,7 +6,7 @@ This board is an audio module board equipped with the AKM AK4619VN.
   - Channels: 4in/4out
   - Sample Rate: 192kHz(max.)
   - TDM Slave
-- Audio Jack: [Green Thonkicon Stereo 3.5mm Jack Socket](https://www.thonk.co.uk/shop/thonkiconn/)
+- Audio Jack: [Green Thonkiconn Stereo 3.5mm Jack Socket](https://www.thonk.co.uk/shop/thonkiconn/)
 - RESET IC: [ADM811](https://www.analog.com/en/products/adm811.html)
 - Power IC: [AP7361EA-33E-13](https://www.diodes.com/assets/Datasheets/AP7361EA.pdf)
 - Power: 5Vin
