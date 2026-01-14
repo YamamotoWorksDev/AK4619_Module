@@ -5558,8 +5558,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 214.376 101.854 90)
+		(property "Value" "2.2uF"
+			(at 216.154 101.854 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5627,8 +5627,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 214.376 94.234 90)
+		(property "Value" "2.2uF"
+			(at 216.154 94.234 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6991,8 +6991,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 224.536 134.874 90)
+		(property "Value" "2.2uF"
+			(at 226.314 134.874 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7060,8 +7060,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 224.536 112.014 90)
+		(property "Value" "2.2uF"
+			(at 226.314 112.014 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7475,8 +7475,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 214.376 86.614 90)
+		(property "Value" "2.2uF"
+			(at 216.154 86.614 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7679,8 +7679,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 214.376 78.994 90)
+		(property "Value" "2.2uF"
+			(at 216.154 78.994 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7813,8 +7813,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 224.536 127.254 90)
+		(property "Value" "2.2uF"
+			(at 226.314 127.254 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8013,8 +8013,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1uF"
-			(at 224.536 119.634 90)
+		(property "Value" "2.2uF"
+			(at 226.314 119.634 90)
 			(effects
 				(font
 					(size 1.27 1.27)
