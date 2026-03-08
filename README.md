@@ -57,3 +57,14 @@ void AUDIO_Init_AK4619(uint32_t hz)
 ![DSCF6199](https://github.com/user-attachments/assets/9b0fe9bc-cb60-43e0-b9de-c6aa34c6c8b7)
 ![DSCF6204](https://github.com/user-attachments/assets/ee3ac4e1-c161-4f76-94a3-f9506609e3fa)
 
+## License
+The hardware design files in this repository are licensed under the
+**CERN Open Hardware Licence Version 2 - Permissive (CERN-OHL-P-2.0)**.
+
+Unless otherwise stated, the following are treated as hardware design files covered by CERN-OHL-P-2.0:
+
+- KiCad schematic files
+- PCB layout files
+
+A copy of the license text is provided in the `LICENSE.md` file.
+
