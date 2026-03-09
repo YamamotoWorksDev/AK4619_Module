@@ -1,6 +1,9 @@
 # AK4619_Module
 This board is an audio module board equipped with the AKM AK4619VN.
 
+## how to buy
+[Yamamoto Works Ltd. Online Store](https://miyworks.base.shop/items/131805475)
+
 ## Specifications
 - CODEC IC: [AK4619VN](https://www.akm.com/global/en/products/audio/audio-codec/ak4619vn/)
   - Channels: 4in/4out
