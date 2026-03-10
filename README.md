@@ -1,5 +1,5 @@
 # AK4619_Module
-This board is an audio module board equipped with the AKM AK4619VN.
+This is a module board for prototyping digital synthesizers or mixers, featuring a 4-channel audio codec (AK4619VN) that supports up to 192 kHz.
 
 ## how to buy
 [Yamamoto Works Ltd. Online Store](https://miyworks.base.shop/items/131805475)
