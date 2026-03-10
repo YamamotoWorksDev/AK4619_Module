@@ -1,18 +1,18 @@
-# AK4619_Module
+# AK4619 Module
 This is a module board for prototyping digital synthesizers or mixers, featuring a 4-channel audio codec (AK4619VN) that supports up to 192 kHz.
 
 ## how to buy
 [Yamamoto Works Ltd. Online Store](https://miyworks.base.shop/items/131805475)
 
 ## Specifications
+- Power: 5V input, onboard 3.3V regulator (AP7361)
 - CODEC IC: [AK4619VN](https://www.akm.com/global/en/products/audio/audio-codec/ak4619vn/)
   - Channels: 4in/4out
   - Sample Rate: 192kHz(max.)
-  - TDM Slave
+  - TDM Slave (expects external BCLK/LRCLK and MCLK)
 - Audio Jack: [Green Thonkiconn Stereo 3.5mm Jack Socket](https://www.thonk.co.uk/shop/thonkiconn/)
 - RESET IC: [ADM811](https://www.analog.com/en/products/adm811.html)
 - Power IC: [AP7361EA-33E-13](https://www.diodes.com/assets/Datasheets/AP7361EA.pdf)
-- Power: 5Vin
 
 ## Codec Initialization(Example)
 ```c
@@ -34,7 +34,7 @@ void AUDIO_Init_AK4619(uint32_t hz)
     sndData[0] = 0x10;  // 000 1 00 00
     HAL_I2C_Mem_Write(&hi2c3, (0b0010001 << 1), 0x02, I2C_MEMADD_SIZE_8BIT, sndData, sizeof(sndData), 10000);
 
-    // System Clock Setting
+    // System Clock Setting (example: 96kHz)
     sndData[0] = 0x01;  // 00000 001 (96kHz)
     HAL_I2C_Mem_Write(&hi2c3, (0b0010001 << 1), 0x03, I2C_MEMADD_SIZE_8BIT, sndData, sizeof(sndData), 10000);
 
