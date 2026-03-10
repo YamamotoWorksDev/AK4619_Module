@@ -18940,8 +18940,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Ch.2"
-		(at 177.63 101.72 -0)
+	(gr_text "Ch.1"
+		(at 177.63 101.72 0)
 		(layer "B.SilkS" knockout)
 		(uuid "a0f30d77-c974-4cd4-ba5c-e4661dfbe3fa")
 		(effects
@@ -18991,8 +18991,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Ch.2"
-		(at 177.59 72.06 -0)
+	(gr_text "Ch.1"
+		(at 177.59 72.06 0)
 		(layer "B.SilkS" knockout)
 		(uuid "b9ca9fa7-48a3-428c-95db-036364c6e57e")
 		(effects
@@ -19017,8 +19017,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Ch.1"
-		(at 152.59 101.7 -0)
+	(gr_text "Ch.2"
+		(at 152.59 101.7 0)
 		(layer "B.SilkS" knockout)
 		(uuid "d27f72a1-bc7f-485a-bd8e-097b7194a396")
 		(effects
@@ -19043,8 +19043,8 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "Ch.1"
-		(at 152.34 72.06 -0)
+	(gr_text "Ch.2"
+		(at 152.34 72.06 0)
 		(layer "B.SilkS" knockout)
 		(uuid "d6c41abe-d14e-4ca2-a6fe-dd162018bf76")
 		(effects
