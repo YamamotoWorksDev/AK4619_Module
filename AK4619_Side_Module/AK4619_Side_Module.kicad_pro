@@ -560,7 +560,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "AK4619_Side_Module.step",
       "svg": "",
       "vrml": ""
     },
