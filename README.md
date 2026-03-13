@@ -1,8 +1,9 @@
 # AK4619 Module
 This is a module board for prototyping digital synthesizers or mixers, featuring a 4-channel audio codec (AK4619VN) that supports up to 192 kHz.
 
-## how to buy
-[Yamamoto Works Ltd. Online Store](https://miyworks.base.shop/items/131805475)
+## How to buy
+- [Tindie(International)](https://www.tindie.com/products/yamamotoworks/ak4619vn-codec-module/)  
+- [BASE(Japan)](https://miyworks.base.shop/items/131805475)
 
 ## Specifications
 - Power: 5V input, onboard 3.3V regulator (AP7361)
