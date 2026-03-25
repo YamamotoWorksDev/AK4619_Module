@@ -75,8 +75,8 @@ void AUDIO_Init_AK4619(uint32_t hz)
 ![2x2 bottom](https://github.com/user-attachments/assets/ee3ac4e1-c161-4f76-94a3-f9506609e3fa)
 
 ### 1x4
-![1x4 top](https://github.com/user-attachments/assets/2d8c54ce-0924-4ffa-bd93-611326dad124)
-![1x4 bottom](https://github.com/user-attachments/assets/692e46c4-7b60-4940-bd75-6c973a8e143d)
+![1x4 top](https://github.com/user-attachments/assets/367ceadc-91bd-4c56-83e2-8c4c404966b8)
+![1x4 bottom](https://github.com/user-attachments/assets/e5c5755c-530a-49de-98e3-d5158322d2c5)
 
 ## License
 The hardware design files in this repository are licensed under the
