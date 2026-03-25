@@ -3,11 +3,11 @@ This is a module board for prototyping digital synthesizers or mixers, featuring
 
 ## How to buy
 ### 2x2
-- [Tindie(International)](https://www.tindie.com/products/yamamotoworks/ak4619vn-codec-module/)  
+- [Tindie(International)](https://www.tindie.com/products/yamamotoworks/ak4619vn-codec-module-2x2/)  
 - [BASE(Japan)](https://miyworks.base.shop/items/131805475)
 
 ### 1x4
-- Tindie(International)  
+- [Tindie(International)](https://www.tindie.com/products/yamamotoworks/ak4619vn-codec-module-1x4/)  
 - [BASE(Japan)](https://miyworks.base.shop/items/139583333)
 
 ## Specifications
