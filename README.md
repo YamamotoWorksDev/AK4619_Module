@@ -64,7 +64,7 @@ void AUDIO_Init_AK4619(uint32_t hz)
 
 ### 1x4
 ![DSCF7967](https://github.com/user-attachments/assets/0f4c6fb3-255c-4ece-a0bd-49ef133d7553)
-![DSCF7968](https://github.com/user-attachments/assets/ed9c2064-3d34-4e89-9103-8cf971ee5904)
+![DSCF7968](https://github.com/user-attachments/assets/0ce4b415-b7b8-42c4-9da4-4b5b11a96934)
 
 ## License
 The hardware design files in this repository are licensed under the
