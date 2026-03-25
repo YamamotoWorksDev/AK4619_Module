@@ -2,8 +2,13 @@
 This is a module board for prototyping digital synthesizers or mixers, featuring a 4-channel audio codec (AK4619VN) that supports up to 192 kHz.
 
 ## How to buy
+### 2x2
 - [Tindie(International)](https://www.tindie.com/products/yamamotoworks/ak4619vn-codec-module/)  
 - [BASE(Japan)](https://miyworks.base.shop/items/131805475)
+
+### 1x4
+- Tindie(International)  
+- [BASE(Japan)](https://miyworks.base.shop/items/139583333)
 
 ## Specifications
 - Power: 5V input, onboard 3.3V regulator (AP7361)
