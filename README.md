@@ -62,6 +62,13 @@ void AUDIO_Init_AK4619(uint32_t hz)
 ## Application Example
 - [JUMBLEQ](https://github.com/yamamo2shun1/JUMBLEQ)
 
+## Size
+### 2x2
+<img width="1548" height="1443" alt="image" src="https://github.com/user-attachments/assets/fbfcd00e-5b4c-41ef-ae70-31a49e353578" />
+
+### 1x4
+<img width="2296" height="1120" alt="image" src="https://github.com/user-attachments/assets/7e4358fa-e5cb-4d1d-ba4c-b3ce8e4ea794" />
+
 ## Photos
 ### 2x2
 ![2x2 top](https://github.com/user-attachments/assets/9b0fe9bc-cb60-43e0-b9de-c6aa34c6c8b7)
