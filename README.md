@@ -58,8 +58,13 @@ void AUDIO_Init_AK4619(uint32_t hz)
 - [JUMBLEQ](https://github.com/yamamo2shun1/JUMBLEQ)
 
 ## Photos
+### 2x2
 ![DSCF6199](https://github.com/user-attachments/assets/9b0fe9bc-cb60-43e0-b9de-c6aa34c6c8b7)
 ![DSCF6204](https://github.com/user-attachments/assets/ee3ac4e1-c161-4f76-94a3-f9506609e3fa)
+
+### 1x4
+![DSCF7967](https://github.com/user-attachments/assets/0f4c6fb3-255c-4ece-a0bd-49ef133d7553)
+![DSCF7968](https://github.com/user-attachments/assets/ed9c2064-3d34-4e89-9103-8cf971ee5904)
 
 ## License
 The hardware design files in this repository are licensed under the
