@@ -64,10 +64,10 @@ void AUDIO_Init_AK4619(uint32_t hz)
 
 ## Size
 ### 2x2
-<img width="1548" height="1443" alt="image" src="https://github.com/user-attachments/assets/fbfcd00e-5b4c-41ef-ae70-31a49e353578" />
+<img width="1590" height="1426" alt="ak4619_2x2_brd" src="https://github.com/user-attachments/assets/eb640620-8cd3-447e-87ba-b081af19437f" />
 
 ### 1x4
-<img width="2296" height="1120" alt="image" src="https://github.com/user-attachments/assets/7e4358fa-e5cb-4d1d-ba4c-b3ce8e4ea794" />
+<img width="1514" height="734" alt="ak4619_1x4_brd" src="https://github.com/user-attachments/assets/de26ea99-787c-4a11-84c0-8e2f10d26057" />
 
 ## Photos
 ### 2x2
